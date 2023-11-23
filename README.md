@@ -30,6 +30,11 @@
 
 ## Contacto 💌 :
 #### Puedes encontrarme en estás plataformas dando click a las imagenes ✌️ :
+[![linknowi](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainhoadlhs/)
+[![gitnowi](https://img.shields.io/badge/Github-black?logo=github&logoColor=white)](https://github.com/Ainhoadlhs)
+[![twittenowi](https://img.shields.io/badge/Twitter-%231D9BF0?logo=twitter&logoColor=white)](https://twitter.com/ainhoadlhs)
+[![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:ainhoadlhs@gmail.com)
+
 
 
 
