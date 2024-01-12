@@ -6,6 +6,8 @@
 - Ahora mismo estoy :
     - Reforzando mis conocimientos en React.js, Node.js y MongoDB. 📚
     - Mejorando mi inglés 🌍📖
+    - Colaborando con Woman TechMakers Madrid en la elaboración de su página web para International Women's Day 2024 💜
+    - Iniciando proyecto grupal para desarrollar una aplicación web de salud femenina ⚕️
 - Mis hobbies son:
     - Videojuegos 🎮
     - Ver anime y series 📺
@@ -30,7 +32,7 @@
 ![slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 
 ## Contacto 💌 :
-#### Puedes encontrarme en estás plataformas dando click a las imagenes ✌️ :
+#### Puedes encontrarme en estás plataformas dando click a los iconos ✌️ :
 [![linknowi](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainhoadlhs/)
 [![gitnowi](https://img.shields.io/badge/Github-black?logo=github&logoColor=white)](https://github.com/Ainhoadlhs)
 [![twittenowi](https://img.shields.io/badge/Twitter-%231D9BF0?logo=twitter&logoColor=white)](https://twitter.com/ainhoadlhs)
