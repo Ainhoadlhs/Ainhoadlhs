@@ -2,9 +2,8 @@
 ## Sobre mi 💬:
 #### - Mi nombre es Ainhoa, y soy una entusiasta del desarrollo web! 👩‍💼💻
 - Antigua Adalaber de la promoción Úrsula (Bootcamp de programación web full stack) 🎓
-- En busqueda activa de empleo 🔍
+- Junior Full Stack Developer en Harbiz 🚀
 - Ahora mismo estoy :
-    - Reforzando mis conocimientos en React.js, Node.js y MongoDB. 📚
     - Mejorando mi inglés 🌍📖
     - Colaborando con Woman TechMakers Madrid en la elaboración de su página web para International Women's Day 2024 💜
     - Iniciando proyecto grupal para desarrollar una aplicación web de salud femenina ⚕️
