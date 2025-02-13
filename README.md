@@ -5,7 +5,7 @@
 - Junior Full Stack Developer en Harbiz 🚀
 - Ahora mismo estoy :
     - Mejorando mi inglés 🌍📖
-    - Colaborando con Woman TechMakers Madrid en la elaboración de su página web para International Women's Day 2024 💜
+    - Colaborando con Woman TechMakers Madrid en la elaboración de su página web para International Women's Day 💜
     - Iniciando proyecto grupal para desarrollar una aplicación web de salud femenina ⚕️
 - Mis hobbies son:
     - Videojuegos 🎮
